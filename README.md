@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kyril Vlasenko</h1>
-
-- 🔭 I’m currently working on [AlphaGrowth Product](alphagrowth.io)
+🔭 I’m currently working on [AlphaGrowth Product](alphagrowth.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
